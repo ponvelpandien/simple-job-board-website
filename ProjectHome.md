@@ -1,0 +1,1 @@
+This website may provide a unique solution where jobseeker can see all the openings in a single website and can build there resume and can apply,follow up with company and do work.
